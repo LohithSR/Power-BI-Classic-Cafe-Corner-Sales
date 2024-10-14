@@ -10,6 +10,11 @@ Classic Cafe Corner Sales Analysis (Power BI Dashboard)
 
 This project involves a sales data analysis of the Classic Cafe Corner using Power BI. The goal is to provide insights into key performance indicators (KPIs) such as total sales, profit margins, customer demographics, and product performance. The dashboard visualizes data in an interactive and intuitive way, offering decision-making insights.
 
+## Dashboard Overview
+Below is the dashboard's main page, displaying key sales performance metrics:
+
+![Sales Dashboard Overview](.<img width="948" alt="Sales Dashboard Overview" src="https://github.com/user-attachments/assets/58b5e3d0-3f6f-40f9-8b0a-3d03cc1da5b5">es/sales_dashboard.png)
+
 # Key Features:
 Dashboard Overview: Provides a summary of cafe performance through KPIs like total revenue, average order value, customer satisfaction, and more.
 
